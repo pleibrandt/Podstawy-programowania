@@ -1,6 +1,8 @@
 ﻿using System;
+using System.Reflection;
 
-namespace Zadanie_1
+
+namespace Zadanie1
 {
     internal class Program
     {
