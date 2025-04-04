@@ -19,11 +19,11 @@ namespace Zadanie_3_while
                 b = Convert.ToInt32(Console.ReadLine());
             } while (b < a);
 
-            do
+            while (a <= b)
             {
                 sum = sum + a;
                 a++;
-            } while (a <= b);
+            }
             Console.WriteLine("Suma elementow wynosi: {0}",sum);
             Console.ReadKey(true);
         }
