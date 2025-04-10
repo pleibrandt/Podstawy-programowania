@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad_14_for", "zad_14_for\za
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad_7_while", "zad_7_while\zad_7_while.csproj", "{840ECF0B-DABF-4600-AD82-17804EB152A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad_8_while", "zad_8_while\zad_8_while.csproj", "{1CAFEF9E-6F79-4D1F-9BBE-0E206F269857}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{840ECF0B-DABF-4600-AD82-17804EB152A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{840ECF0B-DABF-4600-AD82-17804EB152A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{840ECF0B-DABF-4600-AD82-17804EB152A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAFEF9E-6F79-4D1F-9BBE-0E206F269857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAFEF9E-6F79-4D1F-9BBE-0E206F269857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAFEF9E-6F79-4D1F-9BBE-0E206F269857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAFEF9E-6F79-4D1F-9BBE-0E206F269857}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
