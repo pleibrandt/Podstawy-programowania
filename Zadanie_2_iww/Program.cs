@@ -27,6 +27,7 @@ namespace Zadanie_2_iww
                 Console.Write("+ {0}", b);
             else
                 Console.Write("- {0}", b * (-1));
+            Console.ReadKey(true);
         }
     }
 }
