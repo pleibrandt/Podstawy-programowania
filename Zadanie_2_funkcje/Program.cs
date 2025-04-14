@@ -12,9 +12,9 @@ namespace Zadanie_2_funkcje
         static void Main(string[] args)
         {
             double a, b;
-            Console.Write("Podaj a: ");
+            Console.Write("Podaj liczbe a: ");
             a = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Podaj b: ");
+            Console.Write("Podaj liczbe b: ");
             b = Convert.ToDouble(Console.ReadLine());
 
             Console.WriteLine("Maksimum z liczb {0} i {1} wynosi: {2}",a,b,max(a,b));
