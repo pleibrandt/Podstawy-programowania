@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad_8_tablice_wlasne", "Zad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad_9_tablice_wlasne", "Zad_9_tablice_wlasne\Zad_9_tablice_wlasne.csproj", "{668B203B-44A2-4023-9450-DEA3E03D2A3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad_10_tablice_wlasne", "Zad_10_tablice_wlasne\Zad_10_tablice_wlasne.csproj", "{CEF3D2B2-38AD-4411-9DD3-BE67765FECE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{668B203B-44A2-4023-9450-DEA3E03D2A3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{668B203B-44A2-4023-9450-DEA3E03D2A3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{668B203B-44A2-4023-9450-DEA3E03D2A3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEF3D2B2-38AD-4411-9DD3-BE67765FECE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEF3D2B2-38AD-4411-9DD3-BE67765FECE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEF3D2B2-38AD-4411-9DD3-BE67765FECE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEF3D2B2-38AD-4411-9DD3-BE67765FECE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
