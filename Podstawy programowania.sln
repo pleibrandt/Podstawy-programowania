@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie_6_tablice", "Zadani
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad_7_tablice_wlasne", "Zad_7_tablice_wlasne\Zad_7_tablice_wlasne.csproj", "{726C5BF2-D8B4-4098-B8DB-D95A672254C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad_8_tablice_wlasne", "Zad_8_tablice_wlasne\Zad_8_tablice_wlasne.csproj", "{236B0DD3-4862-4C47-8F02-1E9658D7FBA8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{726C5BF2-D8B4-4098-B8DB-D95A672254C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{726C5BF2-D8B4-4098-B8DB-D95A672254C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{726C5BF2-D8B4-4098-B8DB-D95A672254C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{236B0DD3-4862-4C47-8F02-1E9658D7FBA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236B0DD3-4862-4C47-8F02-1E9658D7FBA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236B0DD3-4862-4C47-8F02-1E9658D7FBA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236B0DD3-4862-4C47-8F02-1E9658D7FBA8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
